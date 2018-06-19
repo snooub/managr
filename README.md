@@ -1,4 +1,4 @@
-# Manager
+# Manager Version 1.15.24 By Izero
 Manager is Filesystem management, integrated mysql database management. Use on your website directly.
 ## Author
 - **Izero**
